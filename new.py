@@ -37,7 +37,7 @@ if __name__ == '__main__':
     scholar_Link = sys.argv[1]
     paper_begin = sys.argv[2]
     paper_end = sys.argv[3]
-    xiaoqian_scholar = "https://scholar.google.com/citations?user=DSmxHuMAAAAJ&hl=en"
+#     xiaoqian_scholar = "https://scholar.google.com/citations?user=DSmxHuMAAAAJ&hl=en"
     # page = urllib2.urlopen(xiaoqian_scholar);
     # soup = BeautifulSoup(page)
     
